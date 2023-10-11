@@ -7,7 +7,7 @@
 
 ![faceapi](https://user-images.githubusercontent.com/31125521/57224752-ad3dc080-700a-11e9-85b9-1357b9f9bca4.gif)
 
-## **[Click me for Live Demos!](https://justadudewhohacks.github.io/face-api.js/)**
+## **[Click me for Live Demos!](https://Raculees.github.io/face-api.js/)**
 
 ## Tutorials
 
